@@ -1,2 +1,5 @@
 server:
   port: 9527
+
+info:
+  name: helloWorld
