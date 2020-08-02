@@ -1,0 +1,5 @@
+server:
+  port: 1212
+ 
+info:
+  name: test
